@@ -4,7 +4,8 @@ This program draws a simple undirected graph. I usually use it for competitive p
 Use:
 Just run "compile.bat", after the draw-graph.exe program is generated, you just have to run it. <br>
 
-Input Example: The first number is the number of vertex on the graph, followed by the number of edges. Subsequently as many pairs of numbers as there are edges.
+Input: The first number is the number of vertex on the graph, followed by the number of edges. Subsequently as many pairs of numbers as there are edges. <br>
+Input Example:<br>
 6<br>
 4<br>
 0 5<br>
