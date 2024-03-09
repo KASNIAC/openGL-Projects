@@ -5,6 +5,7 @@ Use:
 Just run "compile.bat", after the draw-graph.exe program is generated, you just have to run it. <br>
 
 Input: The first number is the number of vertex on the graph, followed by the number of edges. Subsequently as many pairs of numbers as there are edges. <br>
+
 Input Example:<br>
 6<br>
 4<br>
