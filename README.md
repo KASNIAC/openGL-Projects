@@ -1,4 +1,4 @@
------ Grapgs drawer -----<br>
+----- Graphs drawer -----<br>
 This program draws a simple undirected graph. I usually use it for competitive programming problems where it is important to visualize the graph. <br>
 
 Use:
